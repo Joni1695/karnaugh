@@ -1,3 +1,4 @@
+package KarnaughClass;
 
 public class Group1 {
 	public int width;
